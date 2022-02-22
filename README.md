@@ -1,4 +1,2 @@
 # Monster-Trainer
-Practice Using Dynamic Memory
-
-First attempt at using dynamic memory in C.
+First attempt at using Dynamic Memory in C.
